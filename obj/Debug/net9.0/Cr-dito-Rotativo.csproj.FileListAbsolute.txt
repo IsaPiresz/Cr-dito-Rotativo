@@ -1,0 +1,15 @@
+C:\Users\user\Documents\credito rotativo\Cr-dito-Rotativo\bin\Debug\net9.0\Cr-dito-Rotativo.exe
+C:\Users\user\Documents\credito rotativo\Cr-dito-Rotativo\bin\Debug\net9.0\Cr-dito-Rotativo.deps.json
+C:\Users\user\Documents\credito rotativo\Cr-dito-Rotativo\bin\Debug\net9.0\Cr-dito-Rotativo.runtimeconfig.json
+C:\Users\user\Documents\credito rotativo\Cr-dito-Rotativo\bin\Debug\net9.0\Cr-dito-Rotativo.dll
+C:\Users\user\Documents\credito rotativo\Cr-dito-Rotativo\bin\Debug\net9.0\Cr-dito-Rotativo.pdb
+C:\Users\user\Documents\credito rotativo\Cr-dito-Rotativo\obj\Debug\net9.0\Cr-dito-Rotativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\credito rotativo\Cr-dito-Rotativo\obj\Debug\net9.0\Cr-dito-Rotativo.AssemblyInfoInputs.cache
+C:\Users\user\Documents\credito rotativo\Cr-dito-Rotativo\obj\Debug\net9.0\Cr-dito-Rotativo.AssemblyInfo.cs
+C:\Users\user\Documents\credito rotativo\Cr-dito-Rotativo\obj\Debug\net9.0\Cr-dito-Rotativo.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\credito rotativo\Cr-dito-Rotativo\obj\Debug\net9.0\Cr-dito-Rotativo.sourcelink.json
+C:\Users\user\Documents\credito rotativo\Cr-dito-Rotativo\obj\Debug\net9.0\Cr-dito-Rotativo.dll
+C:\Users\user\Documents\credito rotativo\Cr-dito-Rotativo\obj\Debug\net9.0\refint\Cr-dito-Rotativo.dll
+C:\Users\user\Documents\credito rotativo\Cr-dito-Rotativo\obj\Debug\net9.0\Cr-dito-Rotativo.pdb
+C:\Users\user\Documents\credito rotativo\Cr-dito-Rotativo\obj\Debug\net9.0\Cr-dito-Rotativo.genruntimeconfig.cache
+C:\Users\user\Documents\credito rotativo\Cr-dito-Rotativo\obj\Debug\net9.0\ref\Cr-dito-Rotativo.dll
